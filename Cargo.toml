@@ -1,0 +1,9 @@
+[package]
+name = "ternary-rigging"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Interactive value manipulation and ripple propagation for balanced ternary systems"
+repository = "https://github.com/SuperInstance/ternary-rigging"
+
+[dependencies]
