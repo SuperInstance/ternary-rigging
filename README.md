@@ -83,3 +83,12 @@ Part of the SuperInstance ternary ecosystem. Could feed into `ternary-spreadshee
 ## License
 
 MIT
+
+## See Also
+- **ternary-shipyard** — related fleet coordination
+- **ternary-dockyard** — related fleet coordination
+- **ternary-harbor** — related fleet coordination
+- **ternary-sail** — related fleet coordination
+- **ternary-cargo** — related fleet coordination
+- **ternary-room** — related fleet coordination
+
